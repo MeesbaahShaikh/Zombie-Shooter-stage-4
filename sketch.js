@@ -20,7 +20,7 @@ var lose, winning, explosionSound;
 
 function preload(){
   
-  heart1Img = loadImage("assets/heart_1.png")
+  heart1Img = loadImage("assets/heart_1.png") //comment added in remote repo
   heart2Img = loadImage("assets/heart_2.png")
   heart3Img = loadImage("assets/heart_3.png")
 
